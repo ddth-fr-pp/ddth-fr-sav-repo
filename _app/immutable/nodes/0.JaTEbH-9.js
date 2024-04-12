@@ -1,0 +1,1 @@
+import{s as t}from"../chunks/scheduler.BvmtPxVN.js";import{S as o,i as n}from"../chunks/index.CCrVEpUp.js";const r=!0,s="always",i=Object.freeze(Object.defineProperty({__proto__:null,prerender:r,trailingSlash:s},Symbol.toStringTag,{value:"Module"}));class c extends o{constructor(e){super(),n(this,e,null,null,t,{})}}export{c as component,i as universal};
