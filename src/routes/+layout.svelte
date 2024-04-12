@@ -1,10 +1,6 @@
 <script>    
     import logo from '/logo.png';
-    import { base } from "$app/paths";
   </script>
-  <svelte:head>
-      <link rel="stylesheet" href="{base}/pagelayout.css">
-  </svelte:head>
   <header class="header clearfix">
       <a href="/" title="SAV DDTH">
           <img src={logo} alt="Logo" class="header__logo" />
