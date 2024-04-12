@@ -5,6 +5,6 @@
   import { base } from "$app/paths";
 </script>
 
-<h1>DDTH-FR-SAV</h1>
+<h1>SAV de DDTH-FR</h1>
 <p>Deployed to GitHub Pages.</p>
 <a href="{base}/about">About</a>
